@@ -13,6 +13,8 @@ A styleguide for creating manageable and predictable users, foundational pages, 
 
 ### Settings
 
+---
+
 ## Users
 
 - Admin
@@ -24,6 +26,8 @@ A styleguide for creating manageable and predictable users, foundational pages, 
 ### Editor
 
 ### Guest
+
+---
 
 ## Fields
 
@@ -45,6 +49,8 @@ A styleguide for creating manageable and predictable users, foundational pages, 
 
 - Text Field Styles
 - Editing Capabilities
+
+---
 
 ## Templates
 
